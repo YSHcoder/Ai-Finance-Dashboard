@@ -1,2 +1,23 @@
-# Ai-Finance-Dashboard
-AI Finance Dashboard is a smart financial management system that helps users track income, expenses, savings, and investments in one place. It uses Artificial Intelligence to analyze financial data, provide insights, predict spending patterns, and support better financial decision-making through interactive charts and real-time analytics.
+# Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn 
+
+<img width="1470" alt="Welth Screenshot" src="Asset/Welth Screenshot.jpg">
+
+### Make sure to create a `.env` file with following variables -
+
+```
+DATABASE_URL=
+DIRECT_URL=
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+
+GEMINI_API_KEY=
+
+RESEND_API_KEY=
+
+ARCJET_KEY=
+```
